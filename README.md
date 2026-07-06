@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi 👋, I'm Bitan Karmakar
 
 ### 🚀 Full Stack Developer • Cybersecurity Enthusiast • Computer Science Student
